@@ -16,10 +16,10 @@ baseurl: "/jkawano-cs376"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: CS376 HCI
+title: "CS376 HCI"
 
 # Short description of your site
-description: Julia's site
+description: "Julia's site"
 
 # --- Navigation bar options --- #
 
