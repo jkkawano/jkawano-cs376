@@ -10,7 +10,7 @@
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-url: "http://jkkawano.github.io/jkawano-cs376"
+url: "https://jkkawano.github.io/jkawano-cs376"
 baseurl: "/jkawano-cs376"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -25,7 +25,7 @@ description: Julia's site
 
 # List of links in the navigation bar
 navbar-links:
-#  About Me: "aboutme"
+  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -66,7 +66,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Julia Kawano
+  name: "Julia Kawano"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
