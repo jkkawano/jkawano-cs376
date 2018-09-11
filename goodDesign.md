@@ -1,7 +1,8 @@
 ---
 layout: page
-title: A Good Design
-subtitle: Emergency Phones
+title: A Bad Design
+subtitle: Bad Door Lock
 ---
 
-Excellent design
+Bad design example
+![post](/img/path.jpg)
