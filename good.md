@@ -1,7 +1,7 @@
 ---
 layout: page
-title: A Bad Design
-subtitle: Bad Door Lock
+title: A Good Design
+subtitle: Emergency Lights
 ---
 
 Bad design example
