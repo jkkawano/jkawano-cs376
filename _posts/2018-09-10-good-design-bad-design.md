@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good Design, Bad Design Assignment Posted
+title: Assignment: Good Design / Bad Design
 ---
 
-My good design / bad design assignment has been posted. Pages can be found under Assignments in the navigation bar.
+My Good Design / Bad Design assignment has been posted. Pages can be found under Assignments in the navigation bar.
