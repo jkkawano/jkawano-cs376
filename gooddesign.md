@@ -3,11 +3,10 @@ layout: page
 title: A Good Design
 subtitle: Emergency Blue Lights
 ---
+
 ![good 0](/img/good-design-0.jpg)
 
-<img src="/img/good-design-0.jpg" />
-
-![good 1](/img/good-design-1.jpg =200x300)
+![good 1](/img/good-design-1.jpg)
 
 These emergency lights are distributed across the Williams campus, in addition to many college campuses across the United States. Every backwards-walking guide will explain during their segment on Safety and Security that if someone ever felt unsafe walking around, they could hit the button on the light and help would rapidly arrive.
 
