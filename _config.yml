@@ -27,7 +27,7 @@ description: "Julia Kawano"
 navbar-links:
   About Me: "aboutme"
   Assignments:
-    - Good Design: "good"
+    - Good Design: "gooddesign"
     - Bad Design: "baddesign"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
