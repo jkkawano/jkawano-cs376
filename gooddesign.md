@@ -5,6 +5,8 @@ subtitle: Emergency Blue Lights
 ---
 ![good 0](/img/good-design-0.jpg)
 
+<img src="/img/good-design-0.jpg" width="200" height="300">
+
 ![good 1](/img/good-design-1.jpg)
 
 These emergency lights are scattered across the Williams campus, in addition to many college campuses across the United States. Everyone who goes on a tour will be told by their backwards-walking guide during their segment on safety and security that the lights are in case someone walking around ever feels unsafe, they can hit the button and help will rapidly arrive.
