@@ -3,11 +3,9 @@ layout: page
 title: A Bad Design
 subtitle: Bad Door Lock
 ---
+![bad 0](/img/bad-design-0.jpg)
 
-Bad design example
-![](/img/bad-design-0.jpg)
-
-![](/img/bad-design-1.jpg)
+![bad 1](/img/bad-design-1.jpg)
 
 Last year, I locked myself out of (and my key inside) my room 3 times in 1 semester. Each time I called Security (or walked to Hopkins as I'd also locked my phone in my room),
 
