@@ -12,3 +12,5 @@ Last year, I locked myself out of (and my key inside) my room 3 times in 1 semes
 One position means the outer knob is locked, the other means unlocked, and I have already forgotten which is which.
 
 The only way to know with confidence that you have unlocked your door on your exit to the shower is to do a quick test on the outer-facing knob to ensure that you will, in fact, be able to re-enter your room and not need to desperately knock on doors in your towel begging your neighbours to call security for you.
+
+(images taken myself Sept 10, 2018)
