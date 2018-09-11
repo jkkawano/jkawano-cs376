@@ -1,8 +1,6 @@
 ---
 layout: page
-title: A Bad Design
-subtitle: Bad Door Lock
+title: A Good Design
 ---
 
 Bad design example
-![post](/img/path.jpg)
