@@ -5,7 +5,7 @@ subtitle: Emergency Blue Lights
 ---
 ![good 0](/img/good-design-0.jpg)
 
-<img src="img/good-design-0.jpg" />
+<img src="/img/good-design-0.jpg" />
 
 ![good 1](/img/good-design-1.jpg =200x300)
 
