@@ -3,15 +3,15 @@ layout: page
 title: Project Proposal
 subtitle: Measuring Visitor Experiences
 ---
+<center>
+#The Problem
+</center>
 
-# The Problem
 It is very difficult to collect quantitative data on a visitor's experience in a museum, specifically WCMA.
 
-<center>
 ![octo](/img/project/octopus.jpg)
-
+<center>
 Image 1
-
 *I loved this piece by David Zink Yi, but WCMA has no way of knowing how much time I spent with this octopus (or how many pictures I took with it)*
 </center>
 
@@ -23,7 +23,10 @@ The primary method for collecting data on visitor experience is to survey random
 
 The main issues with this method, though, is that feedback is only collected from a small, select group of people and this data is largely qualitative. It also requires a significant amount of time and effort on the part of the museum staff.
 
+<center>
 # A Solution
+</center>
+
 An unobtrusive means of collecting quantitative data on a visitor's experience, while enhancing (and not hindering) that visitor's engagement with the museum.
 
 ### Goals
@@ -33,3 +36,5 @@ For the visitor, augment their experience and help them engage with the museum i
 
 ### What this might look like
 A mobile app that would utilise a tablet or smartphone's camera so user's could scan pieces to learn more information, or just take pictures of their favourite pieces. The museum would track this information, in addition to collecting data on the visitor's movement throughout the galleries, and potentially more.
+
+(All images taken myself)
