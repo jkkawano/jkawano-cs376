@@ -4,15 +4,14 @@ title: Project Proposal
 subtitle: Measuring Visitor Experiences
 ---
 <center>
-#The Problem
+<h1>The Problem</h1>
 </center>
 
 It is very difficult to collect quantitative data on a visitor's experience in a museum, specifically WCMA.
 
 ![octo](/img/project/octopus.jpg)
 <center>
-Image 1
-*I loved this piece by David Zink Yi, but WCMA has no way of knowing how much time I spent with this octopus (or how many pictures I took with it)*
+Image 1 <i> I loved this piece by David Zink Yi, but WCMA has no way of knowing how much time I spent with this octopus (or how many pictures I took with it) </i>
 </center>
 
 ### Why it matters
@@ -23,9 +22,7 @@ The primary method for collecting data on visitor experience is to survey random
 
 The main issues with this method, though, is that feedback is only collected from a small, select group of people and this data is largely qualitative. It also requires a significant amount of time and effort on the part of the museum staff.
 
-<center>
-# A Solution
-</center>
+<center> <h1> A Solution </h1> </center>
 
 An unobtrusive means of collecting quantitative data on a visitor's experience, while enhancing (and not hindering) that visitor's engagement with the museum.
 
