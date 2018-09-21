@@ -7,11 +7,13 @@ subtitle: Measuring Visitor Experiences
 # The Problem
 It is very difficult to collect quantitative data on a visitor's experience in a museum, specifically WCMA.
 
+<center>
 ![octo](/img/project/octopus.jpg)
 
--> Image 1 <-
+Image 1
 
 *I loved this piece by David Zink Yi, but WCMA has no way of knowing how much time I spent with this octopus (or how many pictures I took with it)*
+</center>
 
 ### Why it matters
 The more information a museum has on its visitors and their engagement with the art, the galleries, and beyond, the better the more effectively they can design their programming. The need for quantitative data on visitor experience is particularly important for WCMA because of their openness to taking risks in exploring their role as a museum. Knowing the details of their impact on visitors provides valuable feedback and can be used to justify funding.
@@ -30,4 +32,4 @@ For the museum, collect data on: which galleries a visitor went to, how long the
 For the visitor, augment their experience and help them engage with the museum in a more meaningful way.
 
 ### What this might look like
-The musetech
+A mobile app that would utilise a tablet or smartphone's camera so user's could scan pieces to learn more information, or just take pictures of their favourite pieces. The museum would track this information, in addition to collecting data on the visitor's movement throughout the galleries, and potentially more.
