@@ -11,7 +11,7 @@ It is very difficult to collect quantitative data on a visitor's experience in a
 ![octopus](/img/project/octopus.jpg)
 
 <center>
-Image 1 <i> I loved this piece by David Zink Yi, but WCMA has no way of knowing how much time I spent with this octopus (or how many pictures I took with it) </i>
+<b>Image 1</b> <i> I loved this piece by David Zink Yi, but WCMA has no way of knowing how much time I spent with this octopus (or how many pictures I took with it) </i>
 </center>
 
 ### Why it matters
@@ -25,7 +25,7 @@ The main issues with this method, though, is that feedback is only collected fro
 ![infinity](/img/project/infinity.jpg)
 
 <center>
-Image 2 <i> Another piece I spent a significant amount of time with. A Barbara Takenaga piece from fall of 2017.</i>
+<b>Image 2</b> <i> Another piece I spent a significant amount of time with. A Barbara Takenaga piece from fall of 2017.</i>
 </center>
 
 # A Solution
