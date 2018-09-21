@@ -9,8 +9,8 @@ It is very difficult to collect quantitative data on a visitor's experience in a
 
 ![octo](/img/project/octopus.jpg)
 
-Image 1
-I loved this piece by David Zink Yi, but WCMA has no way of knowing how much time I spent with this octopus (or how many pictures I took with it)
+#####Image 1
+*I loved this piece by David Zink Yi, but WCMA has no way of knowing how much time I spent with this octopus (or how many pictures I took with it)* 
 
 ### Why it matters
 The more information a museum has on its visitors and their engagement with the art, the galleries, and beyond, the better the more effectively they can design their programming. The need for quantitative data on visitor experience is particularly important for WCMA because of their openness to taking risks in exploring their role as a museum. Knowing the details of their impact on visitors provides valuable feedback and can be used to justify funding.
