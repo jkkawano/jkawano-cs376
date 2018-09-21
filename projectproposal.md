@@ -8,7 +8,7 @@ subtitle: Measuring Visitor Experiences
 
 It is very difficult to collect quantitative data on a visitor's experience in a museum, specifically WCMA.
 
-<img src="/img/project/octopus.jpg" alt="octopus" style="width:300px;height:300px;">
+![octopus](/img/project/octopus.jpg)
 
 <center>
 Image 1 <i> I loved this piece by David Zink Yi, but WCMA has no way of knowing how much time I spent with this octopus (or how many pictures I took with it) </i>
@@ -21,6 +21,12 @@ The more information a museum has on its visitors and their engagement with the 
 The primary method for collecting data on visitor experience is to survey random visitors. This method is effective for collecting strong, direct testimony and improves the relationship between visitors and the museum as the visitor is able to engage with the museum staff themselves.
 
 The main issues with this method, though, is that feedback is only collected from a small, select group of people and this data is largely qualitative. It also requires a significant amount of time and effort on the part of the museum staff.
+
+![infinity](/img/project/infinity.jpg)
+
+<center>
+Image 2 <i> Another piece I spent a significant amount of time with. A Barbara Takenaga piece from fall of 2017.</i>
+</center>
 
 # A Solution
 
