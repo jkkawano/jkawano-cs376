@@ -26,11 +26,11 @@ description: "Julia Kawano"
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Project:
+    - Proposal: "projectproposal"
   Assignments:
     - Good Design: "gooddesign"
     - Bad Design: "baddesign"
-  Project:
-    - Proposal: "projectproposal"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
