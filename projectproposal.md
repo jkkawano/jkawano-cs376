@@ -4,13 +4,13 @@ title: Project Proposal
 subtitle: Measuring Visitor Experiences
 ---
 
-#The Problem
+# The Problem
 
 It is very difficult to collect quantitative data on a visitor's experience in a museum, specifically WCMA.
 
 
 <center>
-<img src="img/project/octopus.jpg" style="width:300px;height:300px;"/>
+<img src="/img/project/octopus.jpg" alt="octo" style="width:300px;height:300px;"/>
 
 Image 1 <i> I loved this piece by David Zink Yi, but WCMA has no way of knowing how much time I spent with this octopus (or how many pictures I took with it) </i>
 </center>
