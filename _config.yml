@@ -26,8 +26,10 @@ description: "Julia Kawano"
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Design Manifesto: "designManifesto"
   Project:
     - Proposal: "projectproposal"
+    - Final: "_posts/2018-12-04-projectFinal"
   Assignments:
     - Good Design: "gooddesign"
     - Bad Design: "baddesign"
