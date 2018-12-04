@@ -3,4 +3,4 @@ layout: page
 title: Final Project
 ---
 
-The project can be found at [https://omondieric.github.io/whereYouArt/]
+The project can be found [here](https://omondieric.github.io/whereYouArt/)
