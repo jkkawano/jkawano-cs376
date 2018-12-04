@@ -28,7 +28,7 @@ Good design should be inclusive. **Regardless of your target or intended user, y
 
 ![Posters on the dos and don'ts of designing for accessibility](img/accessibility.png)
 
-("Dos and don'ts of designing for accessibility from https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
+"Dos and don'ts of designing for accessibility from <https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/>
 
 Overall, **accessibility in your design helps everyone.** Not having massive blocks of text makes it more readable and interesting for everyone. Making buttons descriptive and large allows everyone to navigate your design more easily. We cannot exclude users simply because they have different abilities than us, after all one of the most repeated sentiments of this course has been that the user is not like us. We are all just temporarily able-bodied. A good design must be accessible.
 
