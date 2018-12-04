@@ -14,15 +14,25 @@ We began this project with only a brief fly-on-the-wall observation at the Willi
 
 ### 2. Good design is functional ###
 
+This may seem obvious, that a good design is one that works. But throughout our design process, it was apparent that it can be easy to overlook edge cases especially with unpredictable human users and when translating from an abstract concept to the actual design.
+
+One of the ways we ensured a high level of functionality in our design was by mapping out task flows. These allowed us to see how a user might progress through our design, the logical connections between our different wireframes. We analyzed our design from the perspective of a user both trying to accomplish a given task and also just logically navigating through. It is important to consider both the tasks we want to provide for the user and also the user’s expectations of functionality. The design should be robust to any possible actions a user wants or expects to be able to do. As much as the design is our own creation, we still need to provide for the user’s wants and expectations.
+
+On a lower level, good design should have good usability heuristics. In this course, the first time we actually created our designs and brought our ideas to life was in the form of a paper prototype. All the groups brought their paper prototypes to class to be tested through heuristic evaluations and as soon as we began to use each other’s designs, we quickly realized that none of our designs included “Back” buttons. In our first attempts to translate our designs from abstract concepts to something tangible and interactive, we had all neglected a small, but functionally necessary component.
+
 ### 3. Good design is accessible ###
 
 Good design should be inclusive. Regardless of your target or intended user, your design should be accessible to users with a range of abilities. This means specific details, like ensuring all of your images have descriptive alt text and checking that a screen reader can logically navigate your structure, and more high-level ones like having a simple and consistent layout without large, heavy blocks of text. We were introduced to a poster series on the “Dos and don’ts of designing for accessibility” by the U.K. government that I found incredibly helpful. The graphics are both compelling and memorable. For the many small details that can sometimes be overlooked when actually creating a design, these are posters to which I will continue to refer.
 
 ![Posters on the dos and don'ts of designing for accessibility](img/accessibility.png)
 
+*("Dos and don'ts of designing for accessibility from https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)*
+
 Overall, accessibility in your design helps everyone. Not having massive blocks of text makes it more readable and interesting for everyone. Making buttons descriptive and large allows everyone to navigate your design more easily. We cannot exclude users simply because they have different abilities than us, after all one of the most repeated sentiments of this course has been that the user is not like us. We are all just temporarily able-bodied. A good design must be accessible.
 
 ### 4. Good design is ethical ###
+
+
 
 ### 5. Good design is delightful ###
 
