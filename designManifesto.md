@@ -10,14 +10,19 @@ Creating a good design requires the careful consideration of both the user and t
 
 A good design should be motivated by a real problem and **the only way to know whether or not people care about a problem is to actually talk to people.** We spent a significant portion of the semester “looking to understand”, meaning that before we even began to prototype or envision our design, we took numerous steps to talk to our target users and learn about them.
 
-We began this project with only a brief fly-on-the-wall observation at the Williams College Museum of Art (WCMA) and from that came up with a problem we wanted to approach. We then conducted a series of contextual inquiries at the museum in which we had participants complete two tasks related to learning more about their current space. Participants were asked to ‘think out loud’, explaining to us all of their actions and the reasonings behind them.
-(More details on our contextual inquiry and project-specific findings can be found [here](https://omondieric.github.io/whereYouArt/contextualReview))
+![A gallery at the Williams College Museum of Art with an installation of Anicka Yi's "Our Love is Bigger than an AIDS Quilt"](img/gallery.jpg)
+*A gallery at the Williams College Museum of Art (WCMA) where we began to research our user. Image from [WCMA](https://wcma.williams.edu)*
+
+We began this project with only a brief fly-on-the-wall observation at WCMA and from that came up with a problem we wanted to approach. We then conducted a series of contextual inquiries at the museum in which we had participants complete two tasks related to learning more about their current space. Participants were asked to ‘think out loud’, explaining to us all of their actions and the reasonings behind them. (More details on our contextual inquiry and project-specific findings can be found [here](https://omondieric.github.io/whereYouArt/contextualReview)). We did all this to see how people actually behaved in the space in which we wanted our design to function. We got to know our target user, learning about their behavior, things they liked, things they didn't, and more.
 
 ## 2. Good design is functional ##
 
 This may seem obvious, that **a good design is one that works.** But throughout our design process, it was apparent that it can be easy to overlook edge cases especially with unpredictable human users and when translating from an abstract concept to the actual design.
 
 One of the ways we ensured a high level of functionality in our design was by mapping out task flows. These allowed us to see how a user might progress through our design, the logical connections between our different wireframes. We analyzed our design from the perspective of a user both trying to accomplish a given task and also just logically navigating through. It is important to consider both the tasks we want to provide for the user and also the user’s expectations of functionality. The design should be robust to any possible actions a user wants or expects to be able to do. As much as the design is our own creation, we still need to provide for the user’s wants and expectations.
+
+![a handdrawn storyboard of a person using the AR design and learning more about the piece through the design](img/storyboard.png)
+This is one of the storyboards we created to help us better visualize how users might use our design and to engage more deeply with these use cases. 
 
 On a lower level, good design should have good usability heuristics. In this course, the first time we actually created our designs and brought our ideas to life was in the form of a paper prototype. All the groups brought their paper prototypes to class to be tested through heuristic evaluations and as soon as we began to use each other’s designs, we quickly realized that none of our designs included “Back” buttons. In our first attempts to translate our designs from abstract concepts to something tangible and interactive, we had all neglected a small, but functionally necessary component.
 (Read more about our heuristic evaluation and the lessons we learned in greater detail [here](https://omondieric.github.io/whereYouArt/heuristic_eval))
@@ -40,7 +45,7 @@ We had the opportunity in this course to examine a few moments in which companie
 
 While it can be helpful to look at these cases and consider the mistakes that were made and what should have been done, I find it more constructive to think in terms actions that I can take, rather than just instances to avoid. Although “The Signal Code: A Human Rights Approach to Information During Crisis” from the Harvard Humanitarian Initiative was created for the context of disasters, I found its key points generally applicable and very resonant. Namely that all people have the right to privacy, security and control over their individual data.
 
-> All people have a right to have their personal information treated in ways consistent with internationally accepted legal, ethical, and technical standards of individual privacy and data protection
+> "All people have a right to have their personal information treated in ways consistent with internationally accepted legal, ethical, and technical standards of individual privacy and data protection" - from "The Signal Code"
 
 Users place an amount of trust in the companies whose technologies they choose to use. Companies need to respect their users and this trust. **People should be able to control how their data is collected, used, or disclosed. And have the right to change their mind on any of that at any point in time.**
 
