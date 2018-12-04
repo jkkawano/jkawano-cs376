@@ -22,7 +22,7 @@ This may seem obvious, that **a good design is one that works.** But throughout 
 One of the ways we ensured a high level of functionality in our design was by mapping out task flows. These allowed us to see how a user might progress through our design, the logical connections between our different wireframes. We analyzed our design from the perspective of a user both trying to accomplish a given task and also just logically navigating through. It is important to consider both the tasks we want to provide for the user and also the user’s expectations of functionality. The design should be robust to any possible actions a user wants or expects to be able to do. As much as the design is our own creation, we still need to provide for the user’s wants and expectations.
 
 ![a handdrawn storyboard of a person using the AR design and learning more about the piece through the design](img/storyboard.png)
-This is one of the storyboards we created to help us better visualize how users might use our design and to engage more deeply with these use cases. 
+*One of the storyboards we created to help us better visualize how users might use our design and to engage more deeply with these use cases.*
 
 On a lower level, good design should have good usability heuristics. In this course, the first time we actually created our designs and brought our ideas to life was in the form of a paper prototype. All the groups brought their paper prototypes to class to be tested through heuristic evaluations and as soon as we began to use each other’s designs, we quickly realized that none of our designs included “Back” buttons. In our first attempts to translate our designs from abstract concepts to something tangible and interactive, we had all neglected a small, but functionally necessary component.
 (Read more about our heuristic evaluation and the lessons we learned in greater detail [here](https://omondieric.github.io/whereYouArt/heuristic_eval))
@@ -33,7 +33,7 @@ Good design should be inclusive. **Regardless of your target or intended user, y
 
 ![Posters on the dos and don'ts of designing for accessibility](img/accessibility.png)
 
-"Dos and don'ts of designing for accessibility from <https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/>
+*"Dos and don'ts of designing for accessibility from [UK Gov](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)*
 
 Overall, **accessibility in your design helps everyone.** Not having massive blocks of text makes it more readable and interesting for everyone. Making buttons descriptive and large allows everyone to navigate your design more easily. We cannot exclude users simply because they have different abilities than us, after all one of the most repeated sentiments of this course has been that the user is not like us. We are all just temporarily able-bodied. A good design must be accessible.
 
