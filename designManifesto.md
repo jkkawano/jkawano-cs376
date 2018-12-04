@@ -26,16 +26,28 @@ Good design should be inclusive. Regardless of your target or intended user, you
 
 ![Posters on the dos and don'ts of designing for accessibility](img/accessibility.png)
 
-*("Dos and don'ts of designing for accessibility from https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)*
+("Dos and don'ts of designing for accessibility from https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
 
 Overall, accessibility in your design helps everyone. Not having massive blocks of text makes it more readable and interesting for everyone. Making buttons descriptive and large allows everyone to navigate your design more easily. We cannot exclude users simply because they have different abilities than us, after all one of the most repeated sentiments of this course has been that the user is not like us. We are all just temporarily able-bodied. A good design must be accessible.
 
 ### 4. Good design is ethical ###
 
+Users of your design, although we sometimes talk about them in abstract ways or view them as type groups, are most importantly people and need to be treated as such with respect for them as individuals and for their data.
 
+We had the opportunity in this course to examine a few moments in which companies failed to consider their users or workers as human individuals and created unethical designs or acted in unethical ways. One of these cases involved the company Strava, a fitness data service. Strava publicly shared data on the activity of their fitness-tracker wearing users that not only could be linked to individual users, but also revealed the locations of US military and intelligence operations. If data on individuals is made publicly available, it should not be personally identifiable. And even if users give consent, it is the responsibility of the company releasing it to deeply consider the implications of providing such data to the public.
+
+While it can be helpful to look at these cases and consider the mistakes that were made and what should have been done, I find it more constructive to think in terms actions that I can take, rather than just instances to avoid. Although “The Signal Code: A Human Rights Approach to Information During Crisis” from the Harvard Humanitarian Initiative was created for the context of disasters, I found its key points generally applicable and very resonant. Namely that all people have the right to privacy, security and control over their individual data.
+
+People should be able to control how their data is collected, used, or disclosed. And have the right to change their mind on any of that at any point in time.
 
 ### 5. Good design is delightful ###
 
-A good design should not frustrate the user, rather the user should enjoy their experience with the design. While it is impossible to completely guarantee that every individual will have a positive experience, there are steps we can take to test
+A good design should not frustrate the user; rather, the user should enjoy their experience with the design. While it is impossible to completely guarantee that every individual will have a positive experience, there are steps we can take to test
 
 We had the opportunity this semester to talk to professionals currently working in industry on UX design and UX research. One of these individuals was Chloe Fan, a project designer for Uber. On her website, Chloe states: “I design beautiful, everyday experiences that help people make the most out of their lives.” I found this statement incredibly compelling and had the opportunity to ask if she could expand upon what she meant by “beautiful”. In her explanation, she said that one feature of “beautiful design” is that it should bring delight.
+
+One way we incorporated this sense of "delight" in our design was providing users with the option to explore. We include a "Random" option for selecting a past show to view in AR to allow users to just explore and maybe learn something new.
+
+![digital prototype of iPad screen asking user to choose to search a gallery or see a random one](img/random-search.png)
+
+During our contextual inquiries, we noticed that users really enjoyed when they made new discoveries. While on the Wikipedia page for the Williams College Museum of Art, one of our participants came across a page on the "Williams Art Mafia". Another of our participants learned the story behind a local artist and his sculpture that she passes every day. Although the actual concept of our design changed significantly during the design process from what it was during the contextual inquiries, we held on to those small moments, knowing that the spark of excitement we saw in our participants was one we wanted to cultivate in users of our design.
